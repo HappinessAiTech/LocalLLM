@@ -27,7 +27,7 @@ To provide the service to users for free, the App includes banner advertisements
 
 Google AdMob may collect de-identified data such as the device's Advertising ID, IP address, and app usage history to deliver and personalize advertisements.
 
-For more detailed information regarding how Google handles this data, please refer to Google's Privacy Policy.
+For more detailed information regarding how Google handles this data, please refer to Google's Privacy Policy (https://policies.google.com/privacy) and you can opt-out of personalized advertising via Google Ad Settings (https://myadcenter.google.com/).
 
 4. Retention and Destruction of Personal Information
 All chat histories, preferences, and system prompts within the App are stored locally on the user's device (local SQLite database).
@@ -85,7 +85,7 @@ AI 모델 다운로드: 초기 구동 시 또는 설정에서 AI 모델(Gemma 4 
 
 Google AdMob은 광고 제공 및 맞춤형 광고 송출을 위해 기기 식별자(Advertising ID), IP 주소, 앱 사용 기록 등의 비식별 데이터를 수집할 수 있습니다.
 
-관련된 자세한 정보는 Google의 개인정보 처리방침에서 확인할 수 있습니다.
+관련된 자세한 정보는 Google의 개인정보 처리방침(https://policies.google.com/privacy)에서 확인할 수 있으며, Google 광고 설정(https://myadcenter.google.com/)을 통해 맞춤형 광고를 거부(Opt-out)할 수 있습니다.
 
 4. 개인정보의 보관 및 파기
 앱 내의 모든 대화 기록, 설정, 시스템 프롬프트 등은 사용자의 기기(로컬 SQLite 데이터베이스)에 보관됩니다.
