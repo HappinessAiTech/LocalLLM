@@ -1,6 +1,66 @@
+LocallLLM Privacy Policy
+
+HappinessAiTech (hereinafter referred to as the "Developer") highly values the privacy of users utilizing the LocallLLM application (hereinafter referred to as the "App") and complies with all relevant privacy laws and regulations. This Privacy Policy explains the types of information collected, used, and processed within the App, as well as the methods of handling such information.
+
+1. Purpose of Collection and Use of Personal Information
+LocallLLM is designed as an offline-based local artificial intelligence (AI) assistant app. To maximize user privacy, most data is processed strictly within the device and is not transmitted to external servers.
+
+Chat History and Text Data: Prompts entered by the user, chat histories, and texts from attached documents (PDF, DOCX, etc.) are stored exclusively in the device's internal storage (local database). They are never collected for AI training purposes nor transmitted to the Developer.
+
+File and Folder Access (AI Work Folder): The App reads and writes text files strictly within the specific directory (Work Folder) that the user has explicitly selected and granted access to. File data accessed during this process is utilized solely for AI model processing within the local device.
+
+Device Control and Status Information (Camera, Battery, etc.):
+
+Camera Permission: Used exclusively to control the device's flashlight (torch) on/off feature. The App does not capture, save, or transmit any photos or videos.
+
+Installed Apps List, Battery Status, and Device Information: Queried and utilized locally within the device solely to execute apps or check device status based on the user's text commands.
+
+2. Information Transmission for External Services
+To provide certain optional features, some information may be transmitted to external services as follows:
+
+Web Search Feature (Optional): If the user enables the 'Web Search' feature in the App settings, the user's questions (search queries) are transmitted to the selected search engine (e.g., Tavily, Serper(Google), DuckDuckGo) to retrieve relevant search results.
+
+AI Model Download: Upon initial launch or when downloading AI models (e.g., Gemma 4) from the settings, the user's IP address may be exposed to the external servers hosting the models (e.g., HuggingFace).
+
+3. Advertising Network (Provision of Information to Third Parties)
+To provide the service to users for free, the App includes banner advertisements provided by Google AdMob.
+
+Google AdMob may collect de-identified data such as the device's Advertising ID, IP address, and app usage history to deliver and personalize advertisements.
+
+For more detailed information regarding how Google handles this data, please refer to Google's Privacy Policy.
+
+4. Retention and Destruction of Personal Information
+All chat histories, preferences, and system prompts within the App are stored locally on the user's device (local SQLite database).
+
+Users can delete individual chat rooms or clear folders at any time through the App's menu. If the user uninstalls the App, all related data stored on the device is immediately and permanently destroyed.
+
+5. Guide to Requested Device Permissions
+The App may request the following device permissions. Each permission is strictly used only for the stated purposes:
+
+Internet (INTERNET): Required for downloading AI models, utilizing the Web Search feature, and loading Google AdMob advertisements.
+
+Camera (CAMERA): Required for controlling the Flashlight (Torch) function.
+
+Notifications (POST_NOTIFICATIONS): Required to display the progress and completion status of large AI model downloads.
+
+Vibration (VIBRATE): Required to provide specific physical feedback (vibration alerts) from the AI assistant.
+
+6. Changes to the Privacy Policy
+This Privacy Policy may be updated or modified in accordance with changes in relevant laws or the App's features. In the event of significant changes, users will be notified in advance through in-app announcements or update release notes.
+
+7. Contact Information
+If you have any questions or concerns regarding this Privacy Policy or the App's data processing practices, please contact us at the following:
+
+Developer: HappinessAiTech
+
+Email: HappinessAiTech@gmail.com
+
+
+---
+
 LocallLLM 개인정보 처리방침 (Privacy Policy)
 
-전승룡(Jeon SeungRyong)(이하 '개발자')은(는) LocallLLM 애플리케이션(이하 '앱')을 이용하는 사용자의 개인정보 보호를 매우 중요하게 생각하며, 관련 법령을 준수하고 있습니다. 본 개인정보 처리방침은 앱 내에서 수집, 사용, 처리되는 정보의 종류와 방식에 대해 설명합니다.
+HappinessAiTech (이하 '개발자')은(는) LocallLLM 애플리케이션(이하 '앱')을 이용하는 사용자의 개인정보 보호를 매우 중요하게 생각하며, 관련 법령을 준수하고 있습니다. 본 개인정보 처리방침은 앱 내에서 수집, 사용, 처리되는 정보의 종류와 방식에 대해 설명합니다.
 
 1. 개인정보의 수집 및 이용 목적
 LocallLLM은 오프라인 기반의 로컬 인공지능(AI) 어시스턴트 앱으로 설계되었습니다. 사용자의 프라이버시를 극대화하기 위해 대부분의 데이터는 기기 내부에서만 처리되며, 외부 서버로 전송되지 않습니다.
@@ -49,6 +109,4 @@ Google AdMob은 광고 제공 및 맞춤형 광고 송출을 위해 기기 식�
 7. 연락처
 본 개인정보 처리방침이나 앱의 데이터 처리에 관하여 궁금한 점이 있으신 경우, 아래의 연락처로 문의해 주시기 바랍니다.
 
-개발자: 전승룡(Jeon SeungRyong)
-
-이메일: [개발자 이메일 주소 입력란]
+이메일: HappinessAiTech@gmail.com
